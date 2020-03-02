@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "6c69a25f-4a98-4b74-b10d-d42635bd105e",
+		"name": "SENAI-BACKEND-INLOCK-JULIABERGMAN-DANILOJUNIOR",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "ESTUDIOS",
+			"item": [],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "JOGOS",
+			"item": [],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "LOGIN",
+			"item": [],
+			"protocolProfileBehavior": {}
+		}
+	],
+	"protocolProfileBehavior": {}
+}
