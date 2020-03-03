@@ -1,0 +1,14 @@
+C:\Users\fic\Desktop\SENAI-BACKEND-INLOCK-JULIABERGMAN-DANILOJUNIOR\Senai.WebApi.InLock\Senai.WebApi.InLock\bin\Debug\netcoreapp2.1\Senai.WebApi.InLock.deps.json
+C:\Users\fic\Desktop\SENAI-BACKEND-INLOCK-JULIABERGMAN-DANILOJUNIOR\Senai.WebApi.InLock\Senai.WebApi.InLock\bin\Debug\netcoreapp2.1\Senai.WebApi.InLock.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-BACKEND-INLOCK-JULIABERGMAN-DANILOJUNIOR\Senai.WebApi.InLock\Senai.WebApi.InLock\bin\Debug\netcoreapp2.1\Senai.WebApi.InLock.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-BACKEND-INLOCK-JULIABERGMAN-DANILOJUNIOR\Senai.WebApi.InLock\Senai.WebApi.InLock\bin\Debug\netcoreapp2.1\Senai.WebApi.InLock.dll
+C:\Users\fic\Desktop\SENAI-BACKEND-INLOCK-JULIABERGMAN-DANILOJUNIOR\Senai.WebApi.InLock\Senai.WebApi.InLock\obj\Debug\netcoreapp2.1\Senai.WebApi.InLock.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-BACKEND-INLOCK-JULIABERGMAN-DANILOJUNIOR\Senai.WebApi.InLock\Senai.WebApi.InLock\obj\Debug\netcoreapp2.1\Senai.WebApi.InLock.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-BACKEND-INLOCK-JULIABERGMAN-DANILOJUNIOR\Senai.WebApi.InLock\Senai.WebApi.InLock\obj\Debug\netcoreapp2.1\Senai.WebApi.InLock.RazorAssemblyInfo.cache
+C:\Users\fic\Desktop\SENAI-BACKEND-INLOCK-JULIABERGMAN-DANILOJUNIOR\Senai.WebApi.InLock\Senai.WebApi.InLock\obj\Debug\netcoreapp2.1\Senai.WebApi.InLock.RazorAssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-BACKEND-INLOCK-JULIABERGMAN-DANILOJUNIOR\Senai.WebApi.InLock\Senai.WebApi.InLock\obj\Debug\netcoreapp2.1\Senai.WebApi.InLock.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-BACKEND-INLOCK-JULIABERGMAN-DANILOJUNIOR\Senai.WebApi.InLock\Senai.WebApi.InLock\obj\Debug\netcoreapp2.1\Senai.WebApi.InLock.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-BACKEND-INLOCK-JULIABERGMAN-DANILOJUNIOR\Senai.WebApi.InLock\Senai.WebApi.InLock\obj\Debug\netcoreapp2.1\Senai.WebApi.InLock.RazorTargetAssemblyInfo.cache
+C:\Users\fic\Desktop\SENAI-BACKEND-INLOCK-JULIABERGMAN-DANILOJUNIOR\Senai.WebApi.InLock\Senai.WebApi.InLock\bin\Debug\netcoreapp2.1\Senai.WebApi.InLock.pdb
+C:\Users\fic\Desktop\SENAI-BACKEND-INLOCK-JULIABERGMAN-DANILOJUNIOR\Senai.WebApi.InLock\Senai.WebApi.InLock\obj\Debug\netcoreapp2.1\Senai.WebApi.InLock.dll
+C:\Users\fic\Desktop\SENAI-BACKEND-INLOCK-JULIABERGMAN-DANILOJUNIOR\Senai.WebApi.InLock\Senai.WebApi.InLock\obj\Debug\netcoreapp2.1\Senai.WebApi.InLock.pdb
