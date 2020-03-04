@@ -22,13 +22,26 @@ namespace Senai.WebApi.InLock.Controllers
             _jogosRepository = new JogosRepository();
         }
         // GET api/values
-        // aqui vai gerar a lista de jogos gaymers
+
+        /// <summary>
+        /// Lista todos os jogos
+        /// </summary>
+ 
+        /// <returns>Um IEnumerable<JogoDomain></returns>
+        /// 
         [Authorize(Roles = "1, 2")]
         [HttpGet]
         public IEnumerable<JogoDomain> Listar()
         {
             return _jogosRepository.ListarJogos();
         }
+
+        /// <summary>
+        /// Cadastra um jogo
+        /// </summary>
+
+        /// <returns>Um HTTP Status Code pelo IActionResult</returns>
+        /// 
 
         [Authorize(Roles = "1")]
         [HttpPost]
@@ -37,7 +50,7 @@ namespace Senai.WebApi.InLock.Controllers
             try
             {
                 _jogosRepository.Cadastrar(Jogo);
-                return Ok("boa");
+                return Ok("Ok");
             }
             catch (Exception e)
             {

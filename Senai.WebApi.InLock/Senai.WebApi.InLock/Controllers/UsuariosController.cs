@@ -25,6 +25,13 @@ namespace Senai.WebApi.InLock.Controllers
             _usuariosRepository = new UsuariosRepository();
         }
 
+        /// <summary>
+        /// Faz o login do usuário
+        /// </summary>
+
+        /// <returns>Um HTTP Status Code pelo IActionResult<JogoDomain></returns>
+        /// 
+
         [HttpPost]
         public IActionResult Login(UsuarioDomain usuario)
         {
@@ -32,7 +39,7 @@ namespace Senai.WebApi.InLock.Controllers
 
             if (usuarioBuscado == null)
             {
-                return NotFound();
+                return NotFound("Não encontrado");
             }
 
             var claims = new[]
